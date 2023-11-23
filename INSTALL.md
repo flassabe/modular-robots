@@ -238,6 +238,8 @@ Extract the file `bb-library-develop.zip` into the workspace directory. Then, us
 
 In the toolbar, next to the hammer icon (used to build your project), click on the downwards arrow and choose **Release** as build target. Then hit the **Build** icon. After a couple second and a bunch of warnings, the library shall have been built.
 
+If you encounter compilation errors about `caddr_t` being not defined, you shall switch your STM toolchain to version 10.3. You do this from your project's properties. Right click on the project, then click on _Properties_ (last entry of the menu), then go to _C/C++ Build_, then _Settings_. In settings, go to _MCU toolchain_, and click on button titled _Open Toolchain Manager_. It will lookup on remote sources, and list available versions. Choose and install _GNU Tools for STM32 (10.3-2021.10)_
+
 You are now ready to proceeed to the next step.
 
 ### Compiling the application
