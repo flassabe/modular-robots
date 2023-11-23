@@ -6,6 +6,8 @@ This repository contains instructions and information about using Blinky Blocks 
 
 Instructions are located in [this page](https://github.com/flassabe/modular-robots/blob/main/INSTALL.md).
 
+You can also try importing a BB virtual machine located [here](https://cloud.femto-st.fr/nextcloud/index.php/s/aw8KmX9sSf7L2LX) if you don't manage to build all tools from the tutorial.
+
 ## Simple exercises
 
 First exercises are available in the section about [Lab 1](https://github.com/flassabe/modular-robots/blob/main/lab.md)
