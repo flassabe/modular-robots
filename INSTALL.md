@@ -2,14 +2,12 @@
 
 In order to follow this guide, you will need a Ubuntu distribution (current tutorial has been tested on Ubuntu 22.04). If you don't have Ubuntu, you may try to use another distribution, or to rely on an Ubuntu Virtual Machine.
 
-You shall download the latest sources of the following packages:
+You shall download sources of the following packages:
 
-- libblinkyApploader (library with BB network stack support for your computer)
-- blinkyApploaderCLI (CLI application to interact with BBs from your computer)
-- bb-library (the system and network stack for BB embedded applications)
-- bb-applications (a template BB application for developping a new application)
-
-Usually, these files are provided by your teachers, or accessible through Github when you are a member of the programmable matter development teams.
+- [libblinkyApploader](https://github.com/flassabe/modular-robots/releases/download/1.0/bb-apploader-develop.zip) (library with BB network stack support for your computer)
+- [blinkyApploaderCLI](https://github.com/flassabe/modular-robots/releases/download/1.0/bb-cli-develop.zip) (CLI application to interact with BBs from your computer)
+- [bb-library](https://github.com/flassabe/modular-robots/releases/download/1.0/bb-library-develop.zip) (the system and network stack for BB embedded applications)
+- [bb-applications](https://github.com/flassabe/modular-robots/releases/download/1.0/bb-applications-librarize-core.zip) (a template BB application for developping a new application)
 
 # Technical setup
 
