@@ -15,3 +15,7 @@ First exercises are available in the section about [Lab 1](https://github.com/fl
 ## Network exercises
 
 Exercises with basic network usage are [here](https://github.com/flassabe/modular-robots/blob/main/network1.md).
+
+## Graded Lab
+
+Instructions have their own file, located [here](https://github.com/flassabe/modular-robots/blob/main/graded-lab.md)
